@@ -3,7 +3,7 @@ nltk basic
 
 <img src="https://c2.staticflickr.com/4/3815/32325870013_01f8bf1d48_b.jpg" width='600'>
 
-자연어 데이터를 가공하는 기초적인 개념들을 익히고, Python 3 소스코드를 활용하여 실습을 합니다
+자연어 데이터를 가공하는 **기초적인 개념들을** 익히고, **Python 3 소스코드를** 활용하여 실습을 합니다
 
 1. **Chapter 1 : 자연어**
 2. **Chapter 2 : 자연어 분석**
