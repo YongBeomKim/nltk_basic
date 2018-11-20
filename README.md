@@ -1,5 +1,5 @@
-# nltk_basic Tutorial
-메이크 챗봇_자연어기초
+# 메이크 챗봇_자연어기초
+nltk basic
 
 <img src="https://c2.staticflickr.com/4/3815/32325870013_01f8bf1d48_b.jpg" width='600'>
 
