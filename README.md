@@ -18,3 +18,5 @@ nltk basic
 모든 실습코드는 Google Colaboratory (Python 3) 에 최적화 되어 있습니다.
 
 <img src="https://miro.medium.com/max/1086/1*g_x1-5iYRn-SmdVucceiWw.png" width='300'>
+
+[슬라이드 추가본](https://www.slideshare.net/YBkim2/ss-134333070)
