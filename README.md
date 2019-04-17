@@ -12,8 +12,9 @@ nltk basic
 2. **Chapter 2 : 자연어 분석 방법론**
 3. **Chapter 3 : 자연어 Token 다듬기**
 4. **Chapter 4 : Word Cloud**
-5. **Chapter 5 : Word 2 Vec**
-
+5. **Chapter 5 : 머신러닝/ 딥러닝 기초**
+6. **Chapter 5 : Word 2 Vec**
+6. **Chapter 6 : 영화리뷰를 활용한 추천시스템**
 
 모든 실습코드는 Google Colaboratory (Python 3) 에 최적화 되어 있습니다.
 
